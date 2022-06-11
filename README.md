@@ -17,7 +17,7 @@ We will be using [Google Colab](https://colab.research.google.com/) to run the c
 ## Challenges
 Here are a couple of questions and challenges about where to go after completing the demo:
 
-1. How can we improve out current classification model? 
+1. How can we improve our current classification model? 
 
 1. Identify key features (e.g., entities, words, phrases) of job descriptions that belong to the fraudulent class
 
