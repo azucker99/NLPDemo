@@ -13,11 +13,13 @@ We will be using [Google Colab](https://colab.research.google.com/) to run the c
 
 2. Select the azucker99/NLPDemo repository
 
-3. Select the main branch, if you are prompted to select a branch
+3. Select the appropriate branch (main, or dev during the development branch)
 
 4. Open nlp_demo.ipynb
 
-5. Click the folder icon on the left of the screen, and now you should see entire repo available for use along with the notebook.  The first notebook commands will pull the remaining files from the repository, like the text inputs that will be processed.
+5. Run this command in the first cell: `!git clone https://github.com/azucker99/NLPDemo.git` - during the development branch, run `!git clone -b dev https://github.com/azucker99/NLPDemo.git`
+
+6. Click the folder icon on the left of the screen, and now you should see entire repo available for use
 
 
 ## Challenges
@@ -29,4 +31,4 @@ Here are a couple of questions and challenges about where to go after completing
 
 2. Perform Exploratory Data Analysis (EDA) to find interesting insights (e.g., most frequent words, what departments have the most fraudulent advertisements, etc.)
 
-3. Create a classification model using all the features to predict fraudluent jobs (e.g, using logisitic regression, random forest, etc.)
+3. Create a classification model using all the features to predict fraudulent jobs (e.g, using logisitic regression, random forest, etc.)
